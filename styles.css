@@ -1,0 +1,26 @@
+﻿body { 
+	background-color:#000000;
+
+}
+
+
+p1 {
+
+	font-family: times new roman;
+	font-size: 80%;
+}
+
+p2  {
+
+	text-align:center;
+	font-size: 80%;
+	color:white;
+}
+
+
+p3  {
+
+	align:center;
+	font-size: 200%;
+	color:white;
+}

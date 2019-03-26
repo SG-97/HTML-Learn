@@ -1,0 +1,20 @@
+!DOCTYPE html>
+<html>
+<head>
+<title><b>Practice 3</b></title>
+<link rel=stylesheet" href="HTML Practice 3.css">
+</head>
+<body id="window">
+<!-- <nav> Not yet </nav> -->
+
+<p>	<h1 style="text-align: center"> WELCOME </h1> <br>
+</p>
+
+<p>	<img src="Test-Picture 1.jpg" alt="image as a link" title=" Image 1"> <br>
+</p>
+
+<p>	The above explains how to add an image as a link. Again, this is only to test/practice on HTML. 
+</p>
+
+</body>
+</html>

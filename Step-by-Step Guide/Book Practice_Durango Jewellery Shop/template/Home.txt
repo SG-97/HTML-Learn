@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+	<title>Page Title</title>
+	<meta charset="utf-8">
+
+</head>
+
+
+<body>
+
+<div id="container">
+
+
+	<p>
+
+		<img class="equip" src="images/Home Image1.jpg" alt="Durango Jewelry" width="260" height="195" title="Durango Jewelry" >
+
+
+	</p>
+
+<header>
+
+
+	<h1>	
+		
+		Durango Jewelry and Gem Shop 
+
+
+	</h1>   <br>
+
+	<h2>	
+
+		
+		Distinguished wire-wrapped jewelry,pendants, and gems 
+
+	</h2>
+
+
+</header>
+
+
+<nav> 
+
+		<a href="Home.html">Home </a> &nbsp; &nbsp <a href="Classics.html">Classics </a> &nbsp; &nbsp <a href="Specials.html">Specials </a> &nbsp; &nbsp <a href="Gems.html">Gems </a> &nbsp; &nbsp <a href="Contact Me.html">Contact Me </a> &nbsp; &nbsp 
+
+</nav>
+
+<main> 
+
+	<p>
+
+		Durango Jewelry and Gem shop pampers you with one-of-a-kind, high-quality wire-wrapped pendants and gems. Our works of art are inspired by natural<br>
+		geometrics and the vast beauty of mother nature. 
+
+	</p>
+
+
+	<p>
+
+
+		The featured pendant provides these characteristics:<br>
+
+
+			<ul>
+
+				<li> gemstone is "Smoky quartz" also called a "Soulmate Crystal" </li>
+				<li> gemstone is over two carats </li>
+				<li> wire is a mixture of antique colored copper and .930 pure silver </li>
+				<li> high-quality silver alloy requires very little polishing </li>
+				<li> pendant is approximately 4cm x 3cm </li>
+
+
+			</ul><br>
+
+
+	</p>
+
+
+	<p>
+
+		Come to Durango Jewelry and Gem shop to make your stay in Durango a lifetime treasure.
+
+
+	</p>
+
+
+</main>
+
+
+<footer>
+
+
+	<p>
+
+
+		Durango Jewelry and Gem shop, <br>
+		10101 Main Street, <br>
+		Durango, CO <br>
+		Established 1979
+
+	</p>
+
+
+		<a href="mailto:ghanesh.t@gmail.com">Contact Us Through email </a>
+
+</footer>
+
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

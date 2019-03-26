@@ -3,49 +3,63 @@
 <head>
 <title>HTML Practice</title>
 </head>
-<body>
+<body style="background-color:#000000;color:white">
 
-<h1>	My First Heading</h1>
+<h1>	My First Heading
+</h1>
 
 <br><br><br>
-<h2>	The 2nd Heading</h2>
-<br>	Image Practices
+
+<br>
+
+<p title="I'm a tooltip">	Image Practices <br> 
+				
 <br><br>
 
-<a href="google.com><img src="google.gif"/></a>
-<br>
-<a href="google.com" title="Google"><img src="google.gif"/></a>
-<br>
-<a href="google.com"><img src="google.gif" alt="Google/></a>
-<br>
-<a href="google.com" title="Google"><img src="google.gif" alt="Google"/></a>
-<br>
-<a href="google.com" title="Google" alt="Google"><img src="google.gif" title="Google" alt="Google"/></a>
+</p>
 
+<p>     <a href="D:\ghanesh\ghanesh\Y Combinator\Intern Summer 2019\interning Prep Course\HTML Learn"> <img src="One-Page Backdrop.jpg" alt="Image Unavailable" width="1920" height="500">
+	</a>
+</p>
+	
+<p>
+	<button> 
+	Practice Button 1
+	</button>
+</p>
 
+<p>	<button>
+	<a href="https://www.w3schools.com">This is a link button
+	</a></button>
+</p> 
 
-
-<br><br><br><br><br><br>
-<p><button>	Practice Button 1</button></p>
-<p><button><a href="https://www.w3schools.com">This is a link button</a></button></p> 
 <br><br>
-<p>	Creating unordered lists</p>
+
+<p>	Creating unordered lists
+</p>
+
 <br><br>
-<ul>
+
+<ul >
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
+
 <br><br>
-<p>	My Turn</p>
+
+<p>	My Turn
+</p>
+
 <p>	<ul>
   	<li>After</li>
   	<li>This</li>
   	<li>Try</li>
   	<li>Putting The list within paragraph tags</li>
-</ul>
+	</ul>
 </p>
-<ol>
+
+<p>  	<ol>
   	<li>Ordered      
   	<li>list </li>
   	<li>is </li>
@@ -53,10 +67,15 @@
 	<li>the </li>
 	<li>paragraph </li>
 	<li>tags </li>
-</ol>
-<h3>	Now, to see what happens to their link </h3>
+	</ol>
+</p>
+
+<h2 >	Now, to see what happens to their link 
+</h2>
 
 <br>
+
 <a href="https://www.w3schools.com">This is a link</a>
+
 </body>
 </html>
