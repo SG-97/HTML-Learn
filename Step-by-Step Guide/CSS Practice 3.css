@@ -1,22 +1,30 @@
-body {
-	background-color: black;
-	border-bottom-color: powderblue;
-	color: white;
-	font-size: 1em;
-	font-family: "Times New Roman",calibri,
+
+ #container {
+
+	 						width:80%;
+							margin-left:auto;
+							margin-right:auto;
+							padding-bottom: 5%;
+							border-bottom-color: powderblue;
+							border-bottom-width: medium;
+
 
  }
 
-#window {
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	height: 90%
-	margin-top: auto;
-	margin-bottom: auto;
- }
+ body {
 
-h1 { 
-	border-bottom-width: 2px;
-	border-bottom-color: powderblue;
- }
+	 			background-color:black;
+				font-family: "times new roman",calibri,cursive;
+				font-size: 1em;
+				color: white;
+
+	}
+
+	.equip {
+
+						float: left;
+						padding-right: 10px;
+						padding-top: 20px;
+						box-shadow: 12px 12px 12px powderblue;
+
+	}
