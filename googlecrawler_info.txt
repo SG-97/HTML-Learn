@@ -1,0 +1,29 @@
+https://support.google.com/webmasters/answer/9012289#request_indexing
+
+https://search.google.com/search-console/welcome
+
+https://support.google.com/webmasters/answer/9008080#domain_name_verification
+
+https://support.google.com/a/answer/9046757?hl=en&ref_topic=4487771  (Hostinger support)
+
+hostinger.com
+
+https://search.google.com/search-console/not-verified?original_url=/search-console/ownership&original_resource_id
+
+https://support.google.com/webmasters/answer/7451184?hl=en
+
+https://support.google.com/webmasters/answer/70897
+
+https://support.google.com/webmasters/answer/7451184
+
+https://developers.google.com/search/docs/guides/intro-structured-data (structured data markup for search results)
+	
+	- https://codelabs.developers.google.com/codelabs/structured-data/index.html#0 (codelab frm Google to teach structered data markup)
+
+
+https://support.google.com/webmasters/answer/7451184?hl=en
+
+https://support.google.com/webmasters/answer/93641 (404 page)
+
+https://search.google.com/search-console/about?utm_source=wmx&utm_medium=wmx-welcome
+
